@@ -1,0 +1,9 @@
+@article{REPO-022,
+    author = "Li, Yan-Ran and Chan, Raymond H and Shen, Lixin and Hsu, Yung-Chin and Isaac Tseng, Wen-Yih",
+    journal = "SIAM Journal on Imaging Sciences",
+    number = "2",
+    pages = "794--821",
+    title = "{An Adaptive Directional Haar Framelet-based Reconstruction Algorithm for Parallel Magnetic Resonance Imaging}",
+    volume = "9",
+    year = "2016"
+}
